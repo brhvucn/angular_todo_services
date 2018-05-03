@@ -1,2 +1,2 @@
-# angular_todo_services
-Angular application to demonstrate how to work with services in Angular. This goes with a lecture for the Bachelors degree in web development
+# Angular ToDo Application - services
+This application follows the bachelors programme in web development. This is a sample of how to create a simple service.
